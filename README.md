@@ -2,7 +2,7 @@
 
 Steps to run this project:
 
-1. Run `node sec/index.js` command
+1. Run `npm run dev` command
 
 
 # Private 채팅앱 만들기
